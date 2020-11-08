@@ -7,9 +7,6 @@ function writeCards(array, keyword) {
   }
   return messages;
 }
- 
-writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
-
 
 function countDown(i){
   while(i>=0){
